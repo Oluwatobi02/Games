@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Oluwatobi
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me oldwhisper98@gmail.com
+
