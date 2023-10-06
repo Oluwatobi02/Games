@@ -2,5 +2,5 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me oldwhisper98@icloud.com
+- 📫 How to reach me olola73@morgan.edu
 
